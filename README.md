@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/shorts/8D0C3xrz-D4">
     <img src="https://img.shields.io/badge/Watch-YouTube%20Short-red?style=for-the-badge&logo=youtube"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME/esp32-motion-game">
+  <a href="https://github.com/webzf/esp32-motion-controlled-oled-game/">
     <img src="https://img.shields.io/github/stars/YOUR_USERNAME/esp32-motion-game?style=for-the-badge"/>
   </a>
   <a href="https://beacons.ai/ztronics/">
