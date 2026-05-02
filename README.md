@@ -32,7 +32,7 @@
 
 ## 💻 Get the Code
 
-    git clone https://github.com/YOUR_USERNAME/esp32-motion-game.git
+    git clone https://github.com/webzf/esp32-motion-controlled-oled-game/
     cd esp32-motion-game
 
 ---
