@@ -1,7 +1,7 @@
 # 🎮 ESP32 Motion-Controlled OLED Game
 
 <p align="center">
-  <img src="YOUR_GIF_LINK" width="320" alt="ESP32 Motion Game Demo"/>
+  <img src="https://i.pinimg.com/736x/b0/8c/46/b08c469e81b73c986b750a006044e336.jpg" width="320" alt="ESP32 Motion Game Demo"/>
 </p>
 
 <p align="center">
